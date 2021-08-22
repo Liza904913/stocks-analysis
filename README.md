@@ -1,18 +1,24 @@
 # VBA Challenge Stocks-analysis
 
+
 ## Overview of Project
+
 
 ### The purpose of the project is to analyze some stock data by refactoring VBA solution code to loop through all the data. We have to find the total daily volume and yearly return for each stock for 2017 and 2018.   
 
+
 ## Results: 
 
-### Overall, stocks we analyzed performed better in 2017 than in 2018. In 2017, we can see mostly stocks increased in return:
+### Overall, stocks we analyzed performed better in 2017 than in 2018. In 2017, we can see most stocks increased in return:
+
 ![VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 
  ### In 2018, most stocks decreased in return. 
+
 ![VBA_Challenge_2018.png](VBA_Challenge_2018.png)
 
 ### Refactoring the script improved the run time. 
+
 ![Execution_time2017.png](Execution_time2017.png)
 ![Execution_time2018.png](Execution_time2018.png)
 
