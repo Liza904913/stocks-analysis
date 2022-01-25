@@ -4,8 +4,7 @@
 ## Overview of Project
 
 
-### The purpose of the project is to analyze some stock data by refactoring VBA solution code to loop through all the data. We have to find the total daily volume and yearly return for each stock for 2017 and 2018.   
-
+### The purpose of this analysis is to provide our client with an Excel workbook including an easy-to-run VBA macro able to analyze an entire dataset of stocks. This tool will help him in its financial expertise. The analysis was ran using two VBA scripts: the original script produced through the Module #2 and a refactored version of it. We would then have the opportunity to compare the performances of both scripts, and highlights the pros and cons of refactoring a code.
 
 ## Results: 
 
@@ -25,10 +24,13 @@
 
 ## Summary 
 
-### -What are the advantages or disadvantages of refactoring code?
+What are the advantages or disadvantages of refactoring code?
 
-### Advantages of refactoring are the following- the code is easier to understand or read, less complex and easier to maintain. Disadvantage of Code Refactoring – can be time consuming.
+pros: makes code faster. Preserves a clean and maintainable architecture in evolving code. Reduces bugs.
+cons: No additional functionality. Costs development time. Quality dependent on previous developers work.
+How do these pros and cons apply to refactoring the original VBA script?
 
-### -How do these pros and cons apply to refactoring the original VBA script?
-### Refactoring the original VBA script will make code easier to understand and a faster execution time, however it might be time consuming. 
+The execution time has improved and the code is clearer and easier to adjust for future updates.
+The refactored script does not give ability to analyze any set or the whole set of existing stocks. The functionality is the same as the original VBA script which is to analyse the performances of the set of 12 green stocks.
+Recoding the refactored script would be needed to give our client the ability to analyze any set of stocks.
 
